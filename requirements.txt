@@ -1,0 +1,9 @@
+# CaveSprite Workbench — Python dependencies
+#
+# Install with:
+#   pip install -r requirements.txt
+#
+# Tested with Python 3.12, PySide6 6.11.2, and Pillow 12.1.1.
+
+PySide6>=6.5
+Pillow>=9.1
